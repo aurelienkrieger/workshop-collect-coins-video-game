@@ -4,7 +4,7 @@
 
 This is a introductory JavaScript workshop based on[ p5js](https://p5js.org/). It was designed for teenagers aged 11-18 although it is suitable also for any adult who is learning JavaScript. The game is straightforward, it is about collecting as many items as possible in a fixed time (race against time type of game). Here is an example of Homer trying to collect Donuts: 
 
-<img src="images/homer.jpg" width="300">
+<img src="ressources/homer.jpg" width="300">
 
 The project source code can be adapted for a variety of characters, for instance:
 
