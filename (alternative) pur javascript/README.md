@@ -1,1 +1,0 @@
-This is an alternative to p5.js using pur JavaScript instead. Students will have to learn about setting up an event, as well as manipulating the HTML and CSS dynamically in JavaScript.
